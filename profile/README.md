@@ -6,9 +6,8 @@ Student project at USN.
 
 https://usnargentum.no
 
-## Wiki
-
-----
+## Wiki: 
+coming soon
 
 ## Projects
 
