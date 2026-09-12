@@ -31,5 +31,6 @@ USN Argentum is a student-led engineering team at the University of South-Easter
 
 ## Location:
 
-Bergseminaret v/USN Kongsberg
-Hasbergs vei 36
+[Bergseminaret v/USN Kongsberg, Hasbergs vei 36](https://www.google.com/maps/search/?api=1&query=Bergseminaret+USN+Kongsberg+Hasbergs+vei+36)
+
+
