@@ -11,16 +11,15 @@
 
 USN Argentum is a student-led engineering team at the University of South-Eastern Norway (USN), building an autonomous rescue rover for RoboCup Rescue 2027. Our 10-person team spans drive, robotic arm, and ground-station development, working across ROS2, embedded firmware, and simulation to build a rover capable of navigating disaster environments with minimal human input.
 
----
 
 
-Sponsored by:
+
+## Sponsored by:
 
 [![Kongsberg](https://img.shields.io/badge/Kongsberg-000000?style=for-the-badge)](https://www.kongsberg.com)
 [![USN](https://img.shields.io/badge/USN-002B5C?style=for-the-badge)](https://www.usn.no)
 
 
----
 
 
 
