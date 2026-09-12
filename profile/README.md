@@ -25,8 +25,9 @@ USN Argentum is a student-led engineering team at the University of South-Easter
 
 ## Contact Us
 
-[![Org Lead](https://img.shields.io/badge/Org_Lead-orglead@usnargentum.no-D14836?style=for-the-badge&logo=gmail&logoColor=white)](orglead@usnargentum.no)
-[![Software Lead](https://img.shields.io/badge/Software_Lead-software@usnargentum.no-D14836?style=for-the-badge&logo=gmail&logoColor=white)](software@usnargentum.no)
+[![organisationalLead](https://img.shields.io/badge/Org_Lead-orglead@usnargentum.no-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orglead@usnargentum.no)
+[![Software Lead](https://img.shields.io/badge/Software_Lead-software@usnargentum.no-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:software@usnargentum.no)
+
 
 ## Location:
 
